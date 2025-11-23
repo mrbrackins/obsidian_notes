@@ -6,7 +6,6 @@
       {
         "id": "4a9924d4581a189a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "de136cc72afd1a30",
@@ -21,25 +20,23 @@
               "icon": "lucide-file",
               "title": "Python Notes"
             }
-          }
-        ]
-      },
-      {
-        "id": "bb61c6ddbd9f897c",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
-            "id": "2778d02b2de68099",
+            "id": "de27927d42094470",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Override DRF Django.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Override DRF Django"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "754dd136f8ed7ed4",
@@ -212,12 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de136cc72afd1a30",
+  "active": "de27927d42094470",
   "lastOpenFiles": [
+    "Python Notes.md",
+    "Override DRF Django.md",
     "styles.css",
     "manifest.json",
     "main.js",
-    "untitled folder",
-    "Python Notes.md"
+    "untitled folder"
   ]
 }
